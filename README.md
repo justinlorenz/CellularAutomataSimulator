@@ -16,41 +16,13 @@ Finish Date:  October 19th, 2020
 
 Hours Spent: 90 hours
 
-### Primary Roles
+### Photos Of Our Simulation
 
-* Grace:
-	* Worked on both the front end and the back end of the project
-		* Did almost all of the buttons and their functionality as well as the the buttons maintainer class
-		* All testing for buttons and DataReader and Missing game properties
-		* Created abstract design for buttons
-		* Errors checks for invalid and missing properties (custom exceptions)
-		* Made sure that all exceptions being thrown were caught and the correct message happened
-		* Created interfaces for the project and has classes implement them
-		* Created ability to change languages in the project (including exceptions)
-		* Created different starting configurations for the file
-		* Dealt with many small bug fixes through FIXME tags
-		* Created splash screen for project and changing CSS files
-		* Did most of optional style properties file
+<img src="/doc/readmeAssets/percolation.PNG" width="600" height="525">
 
-* Justin:
-    * Focused primarily on implementing the model part of the program
-        * Created the Cell classes as well as the rules that run the simulations
-        * Created the different types of edges
-        * Created the different types of neighbors
-        * Created the Board Structure and ModelBoard implementation
-    * Helped out in other parts of the program where need be: gameview, buttons, controller, etc.
-    * Created tests for model and display board 
+<img src="/doc/readmeAssets/graph.PNG" width="600" height="525">
 
-* Luisa: 
-    * Data Reading class: placing board out of csv file
-    * Exception handling and made new custom exceptions and testing for them:
-        * ModelException
-        * Missing file path exception
-    * Controller class tests
-    * Linegraph class and implementation with its tests
-    * css file reading for linegraph
-    * Refactoring
-
+<img src="/doc/readmeAssets/segregationsim.gif" width="600" height="525">
 
 ### Resources Used
 [Help with css files](https://www.callicoder.com/javafx-css-tutorial/)
