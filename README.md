@@ -5,26 +5,29 @@ This project implements a cellular automata simulator.
 
 Names:
 Justin Lorenz (jml166)
+
 Grace Llewellyn (gal16)
+
 Luisa Silva (lps23)
 
 ### Timeline
 
 Start Date: October 2nd, 2020
 
-Finish Date:  October 19th, 2020
+Finish Date:  October 23rd, 2020
 
 Hours Spent: 90 hours
 
 ### Photos Of Our Simulation
 
-<img src="/doc/readmeAssets/percolation.PNG" width="600" height="525">
+<img src="/doc/readmeAssets/percolation.PNG" width="600" height="600">
 
-<img src="/doc/readmeAssets/graph.PNG" width="600" height="525">
+<img src="/doc/readmeAssets/graph.PNG" width="600" height="600">
 
-<img src="/doc/readmeAssets/segregationsim.gif" width="600" height="525">
+<img src="/doc/readmeAssets/segregationsim.gif" width="600" height="600">
 
 ### Resources Used
+
 [Help with css files](https://www.callicoder.com/javafx-css-tutorial/)
 
 [Help with line graphs](https://stackoverflow.com/questions/24899115/javafx-why-linechart-repeats-colors-after-few-plots)
