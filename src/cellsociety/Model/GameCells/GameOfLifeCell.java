@@ -57,11 +57,4 @@ public class GameOfLifeCell extends Cell {
 
 
 
-  //checkValidMove(some input from controller from click) {
-  //updates the board structure and tell game to update view as well
-  //connect four: upd
-  //tictactoe:
-  //1,1 cell clicked
-
-
 }
